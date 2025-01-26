@@ -1,0 +1,1 @@
+-- No server-side logic is required for this script as all checks occur on the client side.
